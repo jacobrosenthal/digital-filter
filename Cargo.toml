@@ -1,6 +1,6 @@
 [package]
 authors = ["Reece Stevens <reecestevens24@gmail.com>"]
-name = "digital-filter"
+name = "digitalfilter"
 version = "0.1.1"
 description = "A simple digital filter library"
 license = "MIT"
